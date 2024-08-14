@@ -1,0 +1,14 @@
+OWNER_NAME="Brel"
+PREFIX="∆"
+PUBLIC_MODE='oui'
+AUTO_READ_STATUS="non"
+AUTO_DOWNLOAD_STATUS="non"
+BOT_NAME= "Huncho-md"
+IMAGE_MENU= "https://telegra.ph/file/835c3a335c8e2585898fc.jpg"
+NUMERO_OWNER= "242064406203,242055617560"
+OWNER_NAME= "᚛Brel᚜"
+DATABASE_URL= "postgresql://zokou_database_uuri_user:h6HqlYgwfKAHMnp1JpO7n2DcMXqWANqF@dpg-cqqjoi56l47c73avok4g-a.oregon-postgres.render.com/zokou_database_uuri"
+WARN_COUNT= "3"
+OPENAI_API_KEY= "87o8rmsn5z9tigwnbw8a60cji5a2yw4skbvs8vr2ot9fenyniozmpj3g30a51m6r"
+STARTING_BOT_MESSAGE='yes'
+ANTI_DELETE_MESSAGE='yes'
